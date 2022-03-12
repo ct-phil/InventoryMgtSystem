@@ -21,7 +21,7 @@ public class InventoryMgtSystem extends JFrame implements ActionListener {
 
             Class.forName("com.mysql.jdbc.Driver");
             
-            String host = "jdbc:mysql://localhost/inventory"; //Database URL
+            String host = "jdbc:mysql://localhost/inventory_managament"; //Database URL
             String uName = "root";
             String uPass = "";
  
